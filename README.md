@@ -4,7 +4,7 @@
 * 微信公众号：前端呼啦圈（Love-FED）
 * 我的博客：[劳卜的博客](http://www.cnblogs.com/luozhihao)
 * 知乎专栏：[前端呼啦圈](https://zhuanlan.zhihu.com/font-end)
-* github：https://github.com/luozhihao
+* github：https://github.com/luozhihao/FED-Problems/blob/master/README.md
 
 ## 前言
 最近在公众号和文章评论中经常会收到一些读者的留言和评论，本文是我挑选的一些在关于学习前端方面比较有价值的提问，希望能够帮助那些有类似前端问题的读者们，同时也为自己的回答做一个统一的整理。
